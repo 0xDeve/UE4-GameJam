@@ -1,5 +1,6 @@
 # UE4-GameJam
-Game Jam Game
+Finnish Game Jam
+Global Game Jam
 
 A small game created for Finnish Game Jam and Global Game Jam. The game uses pure blueprints for faster compilation time due to limited time from the jam.
 
